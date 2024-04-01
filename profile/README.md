@@ -13,9 +13,8 @@ Our schedule may change, but it will generally be:
 
   - Week 4 (April 8, 10) - Working with big meteorlogical data 
 
-  - Weeks 5/6 - Tree-based machine learning prediction
+  - Weeks 5/6 (April 15,17,22,24) - Tree-based machine learning prediction
 
-  - Weeks 7/8
-Weeks 4/5 (April 8-19) - Machine learning prediction
+  - Weeks 7/8 (April 29, May 1, 7)- Deep learning prediction of discharge in Python
 
-Week 6 
+
